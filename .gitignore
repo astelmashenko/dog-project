@@ -8,3 +8,4 @@ bottleneck_features/DogVGG16Data.npz
 __pycache__
 bottleneck_features/DogResnet50Data.npz
 bottleneck_features/DogVGG19Data.npz
+bottleneck_features/DogXceptionData.npz
